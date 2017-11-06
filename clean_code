@@ -1,0 +1,20 @@
+Good reason to have clean code:
+1.	Save time to find bugs
+2.	Save time to maintain the code
+3.	Easy to test
+4.	Look beautiful 
+Naming:
+1.	Use Nouns for Variables, Properties, Parameters
+2.	Use Verbs for Methods and Functions
+3.	Pronounceable and Unambiguous
+Comments:
+1.	Not reliable, since it not updated with code
+2.	Cannot make bad code look good 
+3.	Not need for record, since we use version control 
+4.	Remove unused code, don’t comment out it 
+Function:
+1.	Keep it short
+2.	Easy to test
+3.	Easy to expend
+Reason to prevent clean code:
+I’ll clean it up later
